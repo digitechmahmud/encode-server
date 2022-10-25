@@ -24,4 +24,6 @@ app.get('/courses/:id', (req, res) => {
 
 app.listen(port, () => {
     console.log('app listening from port', port);
-})
+});
+
+module.exports = app;
