@@ -1,49 +1,49 @@
 [
     {
         "id": "01",
-        "picture": "http://placehold.it/32x32",
+        "picture": "./img/Java.png",
         "price": 36,
-        "title": "Maura",
-        "mentor": "Martina",
+        "title": "How to Create MVC Using the Java Language",
+        "mentor": "Jeremy Gery",
         "rating": 4.5
     },
     {
         "id": "02",
-        "picture": "http://placehold.it/32x32",
+        "picture": "./img/Python.png",
         "price": 34,
-        "title": "Loraine",
+        "title": "Learn Data Science With Python Pandas",
         "mentor": "Toni",
         "rating": 4
     },
     {
         "id": "03",
-        "picture": "http://placehold.it/32x32",
+        "picture": "./img/JavaScript.png",
         "price": 26,
-        "title": "Wise",
+        "title": "The Complete JavaScript Build Real Projects!",
         "mentor": "Amparo",
         "rating": 3
     },
     {
         "id": "04",
-        "picture": "http://placehold.it/32x32",
+        "picture": "./img/Financial Analyst.png",
         "price": 33,
-        "title": "Rachelle",
+        "title": "Complete Financial Analyst Course With Kotlin",
         "mentor": "Ola",
         "rating": 5
     },
     {
         "id": "05",
-        "picture": "http://placehold.it/32x32",
+        "picture": "./img/Basic C++.png",
         "price": 40,
-        "title": "Simmons",
+        "title": "Learn Basic C++ to Become Advanced",
         "mentor": "Irene",
         "rating": 3.5
     },
     {
         "id": "06",
-        "picture": "http://placehold.it/32x32",
+        "picture": "./img/Android.png",
         "price": 1000,
-        "title": "Mandi",
+        "title": "Swift Programming Can Be Used For Android",
         "mentor": "Irene",
         "rating": 3.5
     }

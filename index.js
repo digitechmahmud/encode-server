@@ -5,6 +5,8 @@ const port = process.env.PORT || 5000;
 
 const coursesData = require('./data/courses.json');
 
+app.use(cors());
+
 app.get('/', (req, res) => {
     res.send('Successfully server running');
 })
@@ -25,5 +27,3 @@ app.get('/courses/:id', (req, res) => {
 app.listen(port, () => {
     console.log('app listening from port', port);
 });
-
-module.exports = app;
