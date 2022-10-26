@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "picture": "https://raw.githubusercontent.com/digitechmahmud/images/main/Java.png",
+        "title": "How to Create MVC Using the Java Language",
+        "price": 37,
+        "coursedetails": "This Java online course with a certificate is a good start for beginners who want to learn the basics of Java. You will first get briefly introduced to the Java Programming language, followed by information on Java course_idE installation. You will go through different concepts like variables, data types, operators, arrays, flow control statements, and functions with appropriate code examples.You will also have the opportunity to get started with the first Java program in detail and step into the initial stage of Java programming. Enroll in this free Java online course, complete the quiz, and gain a free certificate of course completion. Interested in learning advanced software skills? Great Learning offers top-class Software Development Courses. Enroll in the pacourse_id programs of your choice and earn highly valued certificates."
+    },
+    {
+        "id": "02",
+        "picture": "https://raw.githubusercontent.com/digitechmahmud/images/main/Python.png",
+        "title": "Learn Data Science With Python Pandas",
+        "price": 37,
+        "coursedetails": "This Java online course with a certificate is a good start for beginners who want to learn the basics of Java. You will first get briefly introduced to the Java Programming language, followed by information on Java course_idE installation. You will go through different concepts like variables, data types, operators, arrays, flow control statements, and functions with appropriate code examples.You will also have the opportunity to get started with the first Java program in detail and step into the initial stage of Java programming. Enroll in this free Java online course, complete the quiz, and gain a free certificate of course completion. Interested in learning advanced software skills? Great Learning offers top-class Software Development Courses. Enroll in the pacourse_id programs of your choice and earn highly valued certificates."
+    },
+    {
+        "id": "03",
+        "picture": "https://raw.githubusercontent.com/digitechmahmud/images/main/JavaScript.png",
+        "title": "The Complete JavaScript Build Real Projects!",
+        "price": 26,
+        "coursedetails": "This Java online course with a certificate is a good start for beginners who want to learn the basics of Java. You will first get briefly introduced to the Java Programming language, followed by information on Java course_idE installation. You will go through different concepts like variables, data types, operators, arrays, flow control statements, and functions with appropriate code examples.You will also have the opportunity to get started with the first Java program in detail and step into the initial stage of Java programming. Enroll in this free Java online course, complete the quiz, and gain a free certificate of course completion. Interested in learning advanced software skills? Great Learning offers top-class Software Development Courses. Enroll in the pacourse_id programs of your choice and earn highly valued certificates."
+    },
+    {
+        "id": "04",
+        "picture": "https://raw.githubusercontent.com/digitechmahmud/images/main/Financial%20Analyst.png",
+        "title": "Complete Financial Analyst Course With Kotlin",
+        "price": 23,
+        "coursedetails": "Reed"
+    },
+    {
+        "id": "05",
+        "picture": "https://raw.githubusercontent.com/digitechmahmud/images/main/Basic%20C%2B%2B.png",
+        "title": "Learn Basic C++ to Become Advanced",
+        "price": 38,
+        "coursedetails": "Gross"
+    },
+    {
+        "id": "06",
+        "picture": "https://raw.githubusercontent.com/digitechmahmud/images/main/Android.png",
+        "title": "Swift Programming Can Be Used For Android",
+        "price": 33,
+        "coursedetails": "Greer"
+    }
+]
